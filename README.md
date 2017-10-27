@@ -1,6 +1,6 @@
-# ARM Templates we could use for automated deployments
+# ARM Templates for automated deployments
 
-This is our AC ARM Templates repository.
+This is a suggested ARM Templates repository.
 
 </li><a href="https://github.com/Azure/azure-quickstart-templates">Azure Quickstart Templates</a> is a public repository for many template examples.</li>
 <br>
