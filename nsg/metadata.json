@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Network Security Group Template",
+  "description": "A network security group template and parameters file.",
+  "summary": "A network security group template and parameters file.  Use this template as the framework for your custom deployment.",
+  "githubUsername": "skydreamer1",
+  "dateUpdated": "2017-10-27"
+}
