@@ -1,0 +1,30 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "serverName": {
+      "value": null
+    },
+    "serverAdminUserName": {
+      "value": null
+    },
+    "pipDnsName": {
+      "value": null
+    },
+    "serverWindowsOSVersion": {
+      "value": "2016-Datacenter"
+    },
+    "storageAccountName": {
+      "value": ""
+    },
+    "storageAccountResourceGroup": {
+      "value": ""
+    },
+    "virtualNetworkName": {
+      "value": ""
+    },
+    "virtualNetworkResourceGroup": {
+      "value": ""
+    }
+  }
+}
