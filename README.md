@@ -10,4 +10,8 @@ This is a suggested ARM Templates repository.
 ">Best practices</a> is a guideline how to author good JSON templates</li>
 <br>
 </li><a href="https://github.com/Azure/azure-quickstart-templates/blob/master/1-CONTRIBUTION-GUIDE/sample-README.md#solution-name">Solution name</a> is an example how to apply templates for solution deployments</li>
+<br>
+<br>
+<br>
+</li><a href="https://github.com/Azure/azure-policy/tree/master/samples">Azure Policies</a> is a public repository for Azure policy template examples.</li>
 
