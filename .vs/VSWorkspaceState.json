@@ -1,7 +1,7 @@
 {
   "ExpandedNodes": [
-    ""
+    "\\AzureResourceGroup-MHZ-Test",
+    "\\AzureResourceGroup-MHZ-Test\\AzureResourceGroup-MHZ-Test"
   ],
-  "SelectedNode": "\\blank",
   "PreviewInSolutionExplorer": false
 }
